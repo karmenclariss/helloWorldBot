@@ -1,2 +1,3 @@
 # helloWorldBot
-For NTU AI Tournament
+
+The agent learns from coachPangolin
